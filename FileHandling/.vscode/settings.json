@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "main.C": "cpp",
+        "Calc.C": "cpp",
+        "Calc.H": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
